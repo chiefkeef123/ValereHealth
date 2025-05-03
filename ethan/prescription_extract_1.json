@@ -1,0 +1,21 @@
+{
+    "object_key": "000e7c9be3b247f493a82d6a718b286f_OUT_PATIENT_2024_07_25_18_56_29_eaa5b9182ba342b8be154a1f4df035a4_PRESCRIPTION_IMG_2370jpeg.null.jpg",
+    "document_type": "PRESCRIPTION",
+    "extracted_data": {
+        "document_label": "The Breast Pump Depot",
+        "data": {
+            "patient": {
+                "Phone Number": "(940)432-8092",
+                "Infant Name": "Haylo Casillas",
+                "Infant Date of Birth": "07/23/2024",
+                "First Name": "Haylee",
+                "Last Name": "Gutierrez",
+                "DOB": "03/27/2003"
+            },
+            "doctor": {
+                "Doctor Name": "Gaynelle, Billing DO",
+                "NPI": "1699782730"
+            }
+        }
+    }
+}
